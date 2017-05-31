@@ -1,0 +1,65 @@
+package Constant;
+
+public class Constant {
+	public static final String PROGRAM_TITLE ="programTitle";
+	public static final String DEVELOPED_BY="developedBy";
+	public static final String YEAR_RIGHT="yearRight";
+	public static final String TITLE="title";
+	public static final String EDITION="edition";
+	public static final String TOOLS="tools";
+	public static final String SEE="see";
+	public static final String HELP="help";
+	public static final String ARCHIVE="archive";
+	public static final String EXIT="exit";
+	public static final String ADD="add";
+	public static final String ADD_PHOTO="addPhoto";
+	public static final String SAVE="save";
+	public static final String SAVE_AS="saveAs";
+	public static final String LOAD="load";
+	public static final String DELETE="delete";
+	public static final String MODIFY="modify";
+	public static final String SEARCH="search";
+	public static final String CHANGE_LANGUAGE="changeLanguaje";
+	public static final String ABOUT="about";
+	public static final String SPANISH="spanish";
+	public static final String ENGLISH="english";
+	public static final String SHOW="show";
+	public static final String ID="id";
+	public static final String FIRST_NAME="firstname";
+	public static final String LAST_NAME="lastname";
+	public static final String GENDER="gender";
+	public static final String MALE="male";
+	public static final String FEMALE="female";
+	public static final String BIRTH_DATE="birthdate";
+	public static final String PHOTO="photo";
+	public static final String PHONE="phone";
+	public static final String INGRESS="ingress";
+	public static final String EMAIL="email";
+	public static final String CITY="city";
+	public static final String DAY="day";
+	public static final String MONTH="month";
+	public static final String YEAR="year";
+	public static final String OK="ok";
+	public static final String NEW="new";
+	
+	public static final String ABOUT_TITLE="aboutTitle";
+	public static final String DESCRIPTION_ONE="descriptionOne";
+	public static final String DESCRIPTION_TWO="descriptionTwo";
+	public static final String AUTHOR_NAME_ONE="authorNameOne";
+	public static final String AUTHOR_NAME_TWO="authorNameTwo";
+	public static final String AUTHOR_NAME_THREE="authorNameThree";
+	public static final String VERSION="version";
+	public static final String MESAGGE_SELECT_GENDER="selectGender";
+	public static final String MESAGGE_CKECK_DATE="CheckDate";
+	public static final String MESAGGE_REGISTER_ID="registeredId";
+	public static final String MESAGGE_CKECK_ID="checkId";
+	public static final String MESAGGE_CHECK_PHONE="checkPhone";
+	public static final String MESAGGE_CHECK_INGRESS="checkIngress";
+	public static final String MESAGGE_CONFIRM_DATA="confirmData";
+	public static final String MESAGGE_UNSIGNED_ROW="unsignedRow";
+	public static final String MESAGGE_ARE_YOU_SURE="areYouSure";
+	public static final String MESAGGE_CHARGE_COMPLETED="chargeCompleted";
+	public static final String MESAGGE_SAVE_CORRECT="savedCorrect";
+	public static final String MESAGGE_ERROR_FILE="errorFile";
+			
+}
